@@ -1,0 +1,7 @@
+E:\Projects\2017 - projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\Projects\2017 - projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\Projects\2017 - projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\Projects\2017 - projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\Projects\2017 - projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+E:\Projects\2017 - projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojAssemblyReference.cache
+E:\Projects\2017 - projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
